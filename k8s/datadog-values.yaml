@@ -1,0 +1,4 @@
+datadog:
+  apiKeyExistingSecret: datadog-secret
+  clusterName: aks-simple-flask-app-azure
+  site: datadoghq.com
